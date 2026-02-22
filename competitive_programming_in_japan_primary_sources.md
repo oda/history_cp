@@ -229,7 +229,7 @@
 
 ---
 
-## ⅦⅢ. 補助的資料
+## Ⅷ. 補助的資料
 
 - https://web.archive.org/web/20090522194223/http://iwi.orz.hm/kmc/
   - 内容:
